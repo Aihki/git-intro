@@ -14,3 +14,9 @@
 580 git push -u origin
 581 git push -u origin main
 582 touch notes.md
+583 history
+584 code .
+585 git add .
+586 git commit - "updated noted.md with commands"
+587 git commit -m "updated noted.md with commands"
+588 git push
